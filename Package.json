@@ -1,0 +1,14 @@
+{
+  "name": "jpgpay",
+  "version": "1.0.0",
+  "description": "JPG PAY - Secure Digital Payment Platform",
+  "private": true,
+  "author": "JPG PAY",
+  "license": "UNLICENSED",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
